@@ -1,24 +1,69 @@
-# README
+# hello-react-back-end
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Project Description
 
-Things you may want to cover:
+Hello rails app (back-end) will serve as a backend repository for developing endpoints used to integration in a react front-end
 
-* Ruby version
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby On Rails
+- Rubocop
+- Git
 
-* Database creation
+## Setup
+Clone the repo and run bundle install in the command line to install the dependencies
 
-* Database initialization
+```bash
+$ git clone https://github.com/clintonjosephs/hello-rails-back-end.git
+$ cd hello-rails-back-end
+```
 
-* How to run the test suite
+## Install gems with:
 
-* Services (job queues, cache servers, search engines, etc.)
+```bash
+$ bundle install
+```
 
-* Deployment instructions
+## Install style linters with
+```bash
+$ npm install
+$ yarn install
+```
 
-* ...
+## Start rails server (puma)
+
+```bash
+$ rails server -p 3003
+```
+
+Open [http://localhost:3003/](http://localhost:3003/) in your browser
+
+
+## Author
+
+👤 **Clinton Mbonu**
+
+- GitHub: [@clintonjosephs](https://github.com/clintonjosephs)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/clinton-mbonu)
+- Twitter: [@clintonmbonu2](https://twitter.com/clintonmbonu2)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+See [PUBLIC](./LICENSE) license.
