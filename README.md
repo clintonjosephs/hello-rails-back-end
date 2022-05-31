@@ -4,6 +4,8 @@
 
 Hello rails app (back-end) will serve as a backend repository for developing endpoints used to integration in a react front-end
 
+## Front-end
+[React Front-end](https://github.com/clintonjosephs/hello-react-front-end.git)
 
 ## Built With
 
